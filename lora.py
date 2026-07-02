@@ -656,10 +656,10 @@ def train():
     lora_target_modules = DEFAULT_LORA_TARGET_MODULES
 
     # --- SFT Training Hyperparameters ---
-    num_epochs = 3
+    num_epochs = 8
     checkpoint_interval = 50
     log_interval = 10
-    val_interval = 100
+    val_interval = 50
     batch_size = 4
     grad_accum_steps = 16
     seq_length = 1024
