@@ -1,0 +1,50 @@
+{
+  "documents": 2415636,
+  "characters": 5117378598,
+  "bytes": 14337973694,
+  "tokenizers": {
+    "hf:attentionlab/bayon": {
+      "tokens": 1388992002,
+      "fragment_tokens": 43378699,
+      "unk": 0,
+      "tokens_per_1k_chars": 271.4264687281205,
+      "ratio_vs_first": 1.0,
+      "ratio_ci95": [
+        1.0,
+        1.0
+      ]
+    },
+    "hf:Qwen/Qwen2.5-0.5B": {
+      "tokens": 6020997129,
+      "fragment_tokens": 3643834798,
+      "unk": 0,
+      "tokens_per_1k_chars": 1176.578401166792,
+      "ratio_vs_first": 4.334796111374585,
+      "ratio_ci95": [
+        4.317765059127601,
+        4.352774915969659
+      ]
+    },
+    "tiktoken:o200k_base": {
+      "tokens": 3056774570,
+      "fragment_tokens": 482794566,
+      "unk": 0,
+      "tokens_per_1k_chars": 597.3321128115603,
+      "ratio_vs_first": 2.200714306200879,
+      "ratio_ci95": [
+        2.19088895752352,
+        2.211193791446018
+      ]
+    }
+  },
+  "composition": {
+    "khmer": 4602926122,
+    "latin": 179986419,
+    "ascii_digit": 26856701,
+    "thai": 439901,
+    "ascii_punct": 41848453,
+    "other": 8797632,
+    "zwsp": 1462
+  },
+  "non_whitespace_characters": 4860855228
+}

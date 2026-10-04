@@ -1,0 +1,220 @@
+Step: 10/1840 | LR: 0.000002 | Train Loss: 3.4049 | Perplexity: 30.11
+Step: 20/1840 | LR: 0.000004 | Train Loss: 3.4061 | Perplexity: 30.15
+Step: 30/1840 | LR: 0.000005 | Train Loss: 3.3408 | Perplexity: 28.24
+Step: 40/1840 | LR: 0.000007 | Train Loss: 3.2915 | Perplexity: 26.88
+Step: 50/1840 | LR: 0.000009 | Train Loss: 3.1602 | Perplexity: 23.58
+Step: 60/1840 | LR: 0.000010 | Train Loss: 3.1281 | Perplexity: 22.83
+Step: 70/1840 | LR: 0.000010 | Train Loss: 3.1785 | Perplexity: 24.01
+Step: 80/1840 | LR: 0.000010 | Train Loss: 3.2211 | Perplexity: 25.06
+Step: 90/1840 | LR: 0.000010 | Train Loss: 3.1429 | Perplexity: 23.17
+Step: 100/1840 | LR: 0.000010 | Train Loss: 3.1748 | Perplexity: 23.92
+[System] Running Validation at Step 100...
+--> Validation Loss: 3.1480 | Val Perplexity: 23.29
+Step: 110/1840 | LR: 0.000010 | Train Loss: 3.1412 | Perplexity: 23.13
+Step: 120/1840 | LR: 0.000010 | Train Loss: 3.1676 | Perplexity: 23.75
+Step: 130/1840 | LR: 0.000010 | Train Loss: 3.0924 | Perplexity: 22.03
+Step: 140/1840 | LR: 0.000010 | Train Loss: 3.1070 | Perplexity: 22.35
+Step: 150/1840 | LR: 0.000010 | Train Loss: 2.9834 | Perplexity: 19.75
+Step: 160/1840 | LR: 0.000009 | Train Loss: 3.0431 | Perplexity: 20.97
+Step: 170/1840 | LR: 0.000009 | Train Loss: 3.1503 | Perplexity: 23.34
+Step: 180/1840 | LR: 0.000009 | Train Loss: 3.0325 | Perplexity: 20.75
+Step: 190/1840 | LR: 0.000009 | Train Loss: 3.0431 | Perplexity: 20.97
+Step: 200/1840 | LR: 0.000009 | Train Loss: 3.1027 | Perplexity: 22.26
+[System] Running Validation at Step 200...
+--> Validation Loss: 3.0654 | Val Perplexity: 21.44
+Step: 210/1840 | LR: 0.000009 | Train Loss: 3.0124 | Perplexity: 20.34
+Step: 220/1840 | LR: 0.000009 | Train Loss: 2.9383 | Perplexity: 18.88
+Step: 230/1840 | LR: 0.000009 | Train Loss: 2.9873 | Perplexity: 19.83
+Step: 240/1840 | LR: 0.000009 | Train Loss: 2.9960 | Perplexity: 20.00
+Step: 250/1840 | LR: 0.000009 | Train Loss: 3.0938 | Perplexity: 22.06
+Step: 260/1840 | LR: 0.000009 | Train Loss: 3.0371 | Perplexity: 20.84
+Step: 270/1840 | LR: 0.000009 | Train Loss: 3.0991 | Perplexity: 22.18
+Step: 280/1840 | LR: 0.000009 | Train Loss: 2.9278 | Perplexity: 18.69
+Step: 290/1840 | LR: 0.000009 | Train Loss: 2.9620 | Perplexity: 19.34
+Step: 300/1840 | LR: 0.000009 | Train Loss: 2.9892 | Perplexity: 19.87
+[System] Running Validation at Step 300...
+--> Validation Loss: 3.0142 | Val Perplexity: 20.37
+Step: 310/1840 | LR: 0.000009 | Train Loss: 3.0686 | Perplexity: 21.51
+Step: 320/1840 | LR: 0.000009 | Train Loss: 2.9460 | Perplexity: 19.03
+Step: 330/1840 | LR: 0.000009 | Train Loss: 2.9936 | Perplexity: 19.96
+Step: 340/1840 | LR: 0.000009 | Train Loss: 2.9539 | Perplexity: 19.18
+Step: 350/1840 | LR: 0.000009 | Train Loss: 2.9998 | Perplexity: 20.08
+Step: 360/1840 | LR: 0.000008 | Train Loss: 2.9198 | Perplexity: 18.54
+Step: 370/1840 | LR: 0.000008 | Train Loss: 2.9675 | Perplexity: 19.44
+Step: 380/1840 | LR: 0.000008 | Train Loss: 2.9538 | Perplexity: 19.18
+Step: 390/1840 | LR: 0.000008 | Train Loss: 3.0372 | Perplexity: 20.85
+Step: 400/1840 | LR: 0.000008 | Train Loss: 2.9535 | Perplexity: 19.17
+[System] Running Validation at Step 400...
+--> Validation Loss: 2.9781 | Val Perplexity: 19.65
+Step: 410/1840 | LR: 0.000008 | Train Loss: 2.9033 | Perplexity: 18.23
+Step: 420/1840 | LR: 0.000008 | Train Loss: 2.9422 | Perplexity: 18.96
+Step: 430/1840 | LR: 0.000008 | Train Loss: 2.9228 | Perplexity: 18.59
+Step: 440/1840 | LR: 0.000008 | Train Loss: 2.8763 | Perplexity: 17.75
+Step: 450/1840 | LR: 0.000008 | Train Loss: 2.9262 | Perplexity: 18.66
+Step: 460/1840 | LR: 0.000008 | Train Loss: 2.9825 | Perplexity: 19.74
+Step: 470/1840 | LR: 0.000008 | Train Loss: 2.9318 | Perplexity: 18.76
+Step: 480/1840 | LR: 0.000008 | Train Loss: 2.9512 | Perplexity: 19.13
+Step: 490/1840 | LR: 0.000008 | Train Loss: 2.9730 | Perplexity: 19.55
+Step: 500/1840 | LR: 0.000008 | Train Loss: 2.9114 | Perplexity: 18.38
+[System] Running Validation at Step 500...
+--> Validation Loss: 2.9503 | Val Perplexity: 19.11
+Step: 510/1840 | LR: 0.000008 | Train Loss: 2.9068 | Perplexity: 18.30
+Step: 520/1840 | LR: 0.000008 | Train Loss: 2.8170 | Perplexity: 16.73
+Step: 530/1840 | LR: 0.000008 | Train Loss: 2.9822 | Perplexity: 19.73
+Step: 540/1840 | LR: 0.000008 | Train Loss: 2.8778 | Perplexity: 17.77
+Step: 550/1840 | LR: 0.000008 | Train Loss: 2.8532 | Perplexity: 17.34
+Step: 560/1840 | LR: 0.000007 | Train Loss: 2.7896 | Perplexity: 16.27
+Step: 570/1840 | LR: 0.000007 | Train Loss: 2.9310 | Perplexity: 18.75
+Step: 580/1840 | LR: 0.000007 | Train Loss: 2.8296 | Perplexity: 16.94
+Step: 590/1840 | LR: 0.000007 | Train Loss: 2.8912 | Perplexity: 18.01
+Step: 600/1840 | LR: 0.000007 | Train Loss: 2.9501 | Perplexity: 19.11
+[System] Running Validation at Step 600...
+--> Validation Loss: 2.9266 | Val Perplexity: 18.66
+Step: 610/1840 | LR: 0.000007 | Train Loss: 2.9317 | Perplexity: 18.76
+Step: 620/1840 | LR: 0.000007 | Train Loss: 2.7989 | Perplexity: 16.43
+Step: 630/1840 | LR: 0.000007 | Train Loss: 2.7966 | Perplexity: 16.39
+Step: 640/1840 | LR: 0.000007 | Train Loss: 2.7523 | Perplexity: 15.68
+Step: 650/1840 | LR: 0.000007 | Train Loss: 2.6611 | Perplexity: 14.31
+Step: 660/1840 | LR: 0.000007 | Train Loss: 2.8002 | Perplexity: 16.45
+Step: 670/1840 | LR: 0.000007 | Train Loss: 2.7366 | Perplexity: 15.44
+Step: 680/1840 | LR: 0.000007 | Train Loss: 2.7147 | Perplexity: 15.10
+Step: 690/1840 | LR: 0.000007 | Train Loss: 2.8163 | Perplexity: 16.71
+Step: 700/1840 | LR: 0.000007 | Train Loss: 2.7331 | Perplexity: 15.38
+[System] Running Validation at Step 700...
+--> Validation Loss: 2.9134 | Val Perplexity: 18.42
+Step: 710/1840 | LR: 0.000007 | Train Loss: 2.7358 | Perplexity: 15.42
+Step: 720/1840 | LR: 0.000007 | Train Loss: 2.8405 | Perplexity: 17.13
+Step: 730/1840 | LR: 0.000007 | Train Loss: 2.6921 | Perplexity: 14.76
+Step: 740/1840 | LR: 0.000007 | Train Loss: 2.8065 | Perplexity: 16.55
+Step: 750/1840 | LR: 0.000006 | Train Loss: 2.6928 | Perplexity: 14.77
+Step: 760/1840 | LR: 0.000006 | Train Loss: 2.8059 | Perplexity: 16.54
+Step: 770/1840 | LR: 0.000006 | Train Loss: 2.7950 | Perplexity: 16.36
+Step: 780/1840 | LR: 0.000006 | Train Loss: 2.7093 | Perplexity: 15.02
+Step: 790/1840 | LR: 0.000006 | Train Loss: 2.7563 | Perplexity: 15.74
+Step: 800/1840 | LR: 0.000006 | Train Loss: 2.7199 | Perplexity: 15.18
+[System] Running Validation at Step 800...
+--> Validation Loss: 2.8980 | Val Perplexity: 18.14
+Step: 810/1840 | LR: 0.000006 | Train Loss: 2.7357 | Perplexity: 15.42
+Step: 820/1840 | LR: 0.000006 | Train Loss: 2.7078 | Perplexity: 15.00
+Step: 830/1840 | LR: 0.000006 | Train Loss: 2.8882 | Perplexity: 17.96
+Step: 840/1840 | LR: 0.000006 | Train Loss: 2.7419 | Perplexity: 15.52
+Step: 850/1840 | LR: 0.000006 | Train Loss: 2.7249 | Perplexity: 15.25
+Step: 860/1840 | LR: 0.000006 | Train Loss: 2.7720 | Perplexity: 15.99
+Step: 870/1840 | LR: 0.000006 | Train Loss: 2.7746 | Perplexity: 16.03
+Step: 880/1840 | LR: 0.000006 | Train Loss: 2.7404 | Perplexity: 15.49
+Step: 890/1840 | LR: 0.000006 | Train Loss: 2.7283 | Perplexity: 15.31
+Step: 900/1840 | LR: 0.000006 | Train Loss: 2.7607 | Perplexity: 15.81
+[System] Running Validation at Step 900...
+--> Validation Loss: 2.8834 | Val Perplexity: 17.88
+Step: 910/1840 | LR: 0.000006 | Train Loss: 2.7910 | Perplexity: 16.30
+Step: 920/1840 | LR: 0.000006 | Train Loss: 2.7690 | Perplexity: 15.94
+Step: 930/1840 | LR: 0.000006 | Train Loss: 2.8208 | Perplexity: 16.79
+Step: 940/1840 | LR: 0.000006 | Train Loss: 2.7638 | Perplexity: 15.86
+Step: 950/1840 | LR: 0.000005 | Train Loss: 2.7408 | Perplexity: 15.50
+Step: 960/1840 | LR: 0.000005 | Train Loss: 2.7748 | Perplexity: 16.03
+Step: 970/1840 | LR: 0.000005 | Train Loss: 2.7243 | Perplexity: 15.25
+Step: 980/1840 | LR: 0.000005 | Train Loss: 2.7296 | Perplexity: 15.33
+Step: 990/1840 | LR: 0.000005 | Train Loss: 2.7923 | Perplexity: 16.32
+Step: 1000/1840 | LR: 0.000005 | Train Loss: 2.7741 | Perplexity: 16.02
+[System] Running Validation at Step 1000...
+--> Validation Loss: 2.8713 | Val Perplexity: 17.66
+Step: 1010/1840 | LR: 0.000005 | Train Loss: 2.6709 | Perplexity: 14.45
+Step: 1020/1840 | LR: 0.000005 | Train Loss: 2.7141 | Perplexity: 15.09
+Step: 1030/1840 | LR: 0.000005 | Train Loss: 2.7650 | Perplexity: 15.88
+Step: 1040/1840 | LR: 0.000005 | Train Loss: 2.6913 | Perplexity: 14.75
+Step: 1050/1840 | LR: 0.000005 | Train Loss: 2.7298 | Perplexity: 15.33
+Step: 1060/1840 | LR: 0.000005 | Train Loss: 2.7365 | Perplexity: 15.43
+Step: 1070/1840 | LR: 0.000005 | Train Loss: 2.7847 | Perplexity: 16.20
+Step: 1080/1840 | LR: 0.000005 | Train Loss: 2.7420 | Perplexity: 15.52
+Step: 1090/1840 | LR: 0.000005 | Train Loss: 2.7039 | Perplexity: 14.94
+Step: 1100/1840 | LR: 0.000005 | Train Loss: 2.7706 | Perplexity: 15.97
+[System] Running Validation at Step 1100...
+--> Validation Loss: 2.8611 | Val Perplexity: 17.48
+Step: 1110/1840 | LR: 0.000005 | Train Loss: 2.8102 | Perplexity: 16.61
+Step: 1120/1840 | LR: 0.000005 | Train Loss: 2.6142 | Perplexity: 13.66
+Step: 1130/1840 | LR: 0.000005 | Train Loss: 2.6984 | Perplexity: 14.86
+Step: 1140/1840 | LR: 0.000005 | Train Loss: 2.6948 | Perplexity: 14.80
+Step: 1150/1840 | LR: 0.000004 | Train Loss: 2.7621 | Perplexity: 15.83
+Step: 1160/1840 | LR: 0.000004 | Train Loss: 2.7093 | Perplexity: 15.02
+Step: 1170/1840 | LR: 0.000004 | Train Loss: 2.7914 | Perplexity: 16.30
+Step: 1180/1840 | LR: 0.000004 | Train Loss: 2.6699 | Perplexity: 14.44
+Step: 1190/1840 | LR: 0.000004 | Train Loss: 2.7674 | Perplexity: 15.92
+Step: 1200/1840 | LR: 0.000004 | Train Loss: 2.7388 | Perplexity: 15.47
+[System] Running Validation at Step 1200...
+--> Validation Loss: 2.8527 | Val Perplexity: 17.33
+Step: 1210/1840 | LR: 0.000004 | Train Loss: 2.8036 | Perplexity: 16.50
+Step: 1220/1840 | LR: 0.000004 | Train Loss: 2.6633 | Perplexity: 14.34
+Step: 1230/1840 | LR: 0.000004 | Train Loss: 2.7609 | Perplexity: 15.81
+Step: 1240/1840 | LR: 0.000004 | Train Loss: 2.6500 | Perplexity: 14.15
+Step: 1250/1840 | LR: 0.000004 | Train Loss: 2.6470 | Perplexity: 14.11
+Step: 1260/1840 | LR: 0.000004 | Train Loss: 2.6231 | Perplexity: 13.78
+Step: 1270/1840 | LR: 0.000004 | Train Loss: 2.6517 | Perplexity: 14.18
+Step: 1280/1840 | LR: 0.000004 | Train Loss: 2.6540 | Perplexity: 14.21
+Step: 1290/1840 | LR: 0.000004 | Train Loss: 2.6169 | Perplexity: 13.69
+Step: 1300/1840 | LR: 0.000004 | Train Loss: 2.6435 | Perplexity: 14.06
+[System] Running Validation at Step 1300...
+--> Validation Loss: 2.8500 | Val Perplexity: 17.29
+Step: 1310/1840 | LR: 0.000004 | Train Loss: 2.5893 | Perplexity: 13.32
+Step: 1320/1840 | LR: 0.000004 | Train Loss: 2.5524 | Perplexity: 12.84
+Step: 1330/1840 | LR: 0.000004 | Train Loss: 2.5671 | Perplexity: 13.03
+Step: 1340/1840 | LR: 0.000004 | Train Loss: 2.6767 | Perplexity: 14.54
+Step: 1350/1840 | LR: 0.000003 | Train Loss: 2.6114 | Perplexity: 13.62
+Step: 1360/1840 | LR: 0.000003 | Train Loss: 2.7024 | Perplexity: 14.92
+Step: 1370/1840 | LR: 0.000003 | Train Loss: 2.6321 | Perplexity: 13.90
+Step: 1380/1840 | LR: 0.000003 | Train Loss: 2.5657 | Perplexity: 13.01
+Step: 1390/1840 | LR: 0.000003 | Train Loss: 2.5730 | Perplexity: 13.11
+Step: 1400/1840 | LR: 0.000003 | Train Loss: 2.5941 | Perplexity: 13.38
+[System] Running Validation at Step 1400...
+--> Validation Loss: 2.8438 | Val Perplexity: 17.18
+Step: 1410/1840 | LR: 0.000003 | Train Loss: 2.6442 | Perplexity: 14.07
+Step: 1420/1840 | LR: 0.000003 | Train Loss: 2.6223 | Perplexity: 13.77
+Step: 1430/1840 | LR: 0.000003 | Train Loss: 2.6160 | Perplexity: 13.68
+Step: 1440/1840 | LR: 0.000003 | Train Loss: 2.5482 | Perplexity: 12.78
+Step: 1450/1840 | LR: 0.000003 | Train Loss: 2.7266 | Perplexity: 15.28
+Step: 1460/1840 | LR: 0.000003 | Train Loss: 2.6518 | Perplexity: 14.18
+Step: 1470/1840 | LR: 0.000003 | Train Loss: 2.6993 | Perplexity: 14.87
+Step: 1480/1840 | LR: 0.000003 | Train Loss: 2.6502 | Perplexity: 14.16
+Step: 1490/1840 | LR: 0.000003 | Train Loss: 2.7190 | Perplexity: 15.17
+Step: 1500/1840 | LR: 0.000003 | Train Loss: 2.7092 | Perplexity: 15.02
+[System] Running Validation at Step 1500...
+--> Validation Loss: 2.8389 | Val Perplexity: 17.10
+Step: 1510/1840 | LR: 0.000003 | Train Loss: 2.6588 | Perplexity: 14.28
+Step: 1520/1840 | LR: 0.000003 | Train Loss: 2.6232 | Perplexity: 13.78
+Step: 1530/1840 | LR: 0.000003 | Train Loss: 2.7184 | Perplexity: 15.16
+Step: 1540/1840 | LR: 0.000003 | Train Loss: 2.6240 | Perplexity: 13.79
+Step: 1550/1840 | LR: 0.000002 | Train Loss: 2.5593 | Perplexity: 12.93
+Step: 1560/1840 | LR: 0.000002 | Train Loss: 2.6748 | Perplexity: 14.51
+Step: 1570/1840 | LR: 0.000002 | Train Loss: 2.6295 | Perplexity: 13.87
+Step: 1580/1840 | LR: 0.000002 | Train Loss: 2.6203 | Perplexity: 13.74
+Step: 1590/1840 | LR: 0.000002 | Train Loss: 2.6448 | Perplexity: 14.08
+Step: 1600/1840 | LR: 0.000002 | Train Loss: 2.6958 | Perplexity: 14.82
+[System] Running Validation at Step 1600...
+--> Validation Loss: 2.8358 | Val Perplexity: 17.04
+Step: 1610/1840 | LR: 0.000002 | Train Loss: 2.5968 | Perplexity: 13.42
+Step: 1620/1840 | LR: 0.000002 | Train Loss: 2.6043 | Perplexity: 13.52
+Step: 1630/1840 | LR: 0.000002 | Train Loss: 2.7088 | Perplexity: 15.01
+Step: 1640/1840 | LR: 0.000002 | Train Loss: 2.6826 | Perplexity: 14.62
+Step: 1650/1840 | LR: 0.000002 | Train Loss: 2.6445 | Perplexity: 14.08
+Step: 1660/1840 | LR: 0.000002 | Train Loss: 2.6205 | Perplexity: 13.74
+Step: 1670/1840 | LR: 0.000002 | Train Loss: 2.6419 | Perplexity: 14.04
+Step: 1680/1840 | LR: 0.000002 | Train Loss: 2.6005 | Perplexity: 13.47
+Step: 1690/1840 | LR: 0.000002 | Train Loss: 2.6122 | Perplexity: 13.63
+Step: 1700/1840 | LR: 0.000002 | Train Loss: 2.5393 | Perplexity: 12.67
+[System] Running Validation at Step 1700...
+--> Validation Loss: 2.8323 | Val Perplexity: 16.98
+Step: 1710/1840 | LR: 0.000002 | Train Loss: 2.6160 | Perplexity: 13.68
+Step: 1720/1840 | LR: 0.000002 | Train Loss: 2.5878 | Perplexity: 13.30
+Step: 1730/1840 | LR: 0.000002 | Train Loss: 2.6102 | Perplexity: 13.60
+Step: 1740/1840 | LR: 0.000002 | Train Loss: 2.6459 | Perplexity: 14.10
+Step: 1750/1840 | LR: 0.000001 | Train Loss: 2.6274 | Perplexity: 13.84
+Step: 1760/1840 | LR: 0.000001 | Train Loss: 2.5231 | Perplexity: 12.47
+Step: 1770/1840 | LR: 0.000001 | Train Loss: 2.6716 | Perplexity: 14.46
+Step: 1780/1840 | LR: 0.000001 | Train Loss: 2.6462 | Perplexity: 14.10
+Step: 1790/1840 | LR: 0.000001 | Train Loss: 2.5281 | Perplexity: 12.53
+Step: 1800/1840 | LR: 0.000001 | Train Loss: 2.5764 | Perplexity: 13.15
+[System] Running Validation at Step 1800...
+--> Validation Loss: 2.8289 | Val Perplexity: 16.93
+Step: 1810/1840 | LR: 0.000001 | Train Loss: 2.6962 | Perplexity: 14.82
+Step: 1820/1840 | LR: 0.000001 | Train Loss: 2.5660 | Perplexity: 13.01
+Step: 1830/1840 | LR: 0.000001 | Train Loss: 2.6522 | Perplexity: 14.18
+Step: 1840/1840 | LR: 0.000001 | Train Loss: 2.6161 | Perplexity: 13.68
