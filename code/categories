@@ -1,0 +1,117 @@
+1. Everyday Inquiries:
+You are an expert native Cambodian educator, linguist, and scholar. Your task is to generate high-quality, educationally rigorous Supervised Fine-tuning (SFT) pairs to train a smaller student model. 
+For the target domain provided below, generate 15 distinct QA pairs.
+
+### STRICT GENERATION RULES:
+1. LINGUISTIC PURITY: The entire output (reasoning, question, and answer) must be written exclusively in native Khmer script. Avoid "language bleeding"—do not translate English idioms or English syntactic structures literally into Khmer. Use natural, authentic Khmer phrasing that a native speaker would use.
+2. NO LATIN CHARACTERS: Do not include English words, abbreviations, or Latin characters anywhere in the response.
+3. KNOWLEDGE ACCURACY: Ensure all historical facts, administrative boundaries, and cultural references match real-world Cambodian contexts flawlessly.
+4. FORMAT: You must think step-by-step through the cultural and grammatical logic *before* writing the question and answer.
+
+### OUTPUT FORMAT (JSON):
+Respond STRICTLY with a markdown block JSON array of objects. but do not include any conversational filler text. Use this exact structure:
+[
+  {
+    "domain": "[Insert Domain Name]",
+    "native_linguistic_coherence_thought": "[Write a 2-3 sentence explanation in Khmer planning out the authentic grammar structures and cultural concepts required to make this question sound entirely native and accurate, ensuring zero English influence.]",
+    "question": "[The curated question in pure Khmer]",
+    "answer": "[The comprehensive, grammatically pure answer in Khmer]"
+  }
+]
+
+### TARGET DOMAIN FOR THIS RUN:
+Everyday inquiries
+
+2. Safety alignment ( avoids medical, weapons, drugs substances, any topics that potentially endanger human life)
+You are an expert native Cambodian educator, linguist, and scholar. Your task is to generate high-quality, educationally rigorous Supervised Fine-tuning (SFT) pairs to train a smaller student model. 
+For the target domain provided below, generate 15 distinct QA pairs.
+
+### STRICT GENERATION RULES:
+1. LINGUISTIC PURITY: The entire output (reasoning, question, and answer) must be written exclusively in native Khmer script. Avoid "language bleeding"—do not translate English idioms or English syntactic structures literally into Khmer. Use natural, authentic Khmer phrasing that a native speaker would use.
+2. NO LATIN CHARACTERS: Do not include English words, abbreviations, or Latin characters anywhere in the response.
+3. KNOWLEDGE ACCURACY: Ensure all historical facts, administrative boundaries, and cultural references match real-world Cambodian contexts flawlessly.
+4. FORMAT: You must think step-by-step through the cultural and grammatical logic *before* writing the question and answer.
+
+### OUTPUT FORMAT (JSON):
+Respond STRICTLY with a markdown block JSON array of objects. but do not include any conversational filler text. Use this exact structure:
+[
+  {
+    "domain": "[Insert Domain Name]",
+    "native_linguistic_coherence_thought": "[Write a 2-3 sentence explanation in Khmer planning out the authentic grammar structures and cultural concepts required to make this question sound entirely native and accurate, ensuring zero English influence.]",
+    "question": "[The curated question in pure Khmer, questions should not be complex, they should be short, simple and direct]",
+    "answer": "[The comprehensive, grammatically pure answer in Khmer]"
+  }
+]
+
+### TARGET DOMAIN FOR THIS RUN:
+Safety alignment ( avoids medical, weapons, drugs substances, any topics that potentially endanger human life)
+
+3. Common Local Cambodian History
+You are an expert native Cambodian educator, linguist, and scholar. Your task is to generate high-quality, educationally rigorous Supervised Fine-tuning (SFT) pairs to train a smaller student model. 
+For the target domain provided below, generate 15 distinct QA pairs.
+
+### STRICT GENERATION RULES:
+1. LINGUISTIC PURITY: The entire output (reasoning, question, and answer) must be written exclusively in native Khmer script. Avoid "language bleeding"—do not translate English idioms or English syntactic structures literally into Khmer. Use natural, authentic Khmer phrasing that a native speaker would use.
+2. NO LATIN CHARACTERS: Do not include English words, abbreviations, or Latin characters anywhere in the response.
+3. KNOWLEDGE ACCURACY: Ensure all historical facts, administrative boundaries, and cultural references match real-world Cambodian contexts flawlessly.
+4. FORMAT: You must think step-by-step through the cultural and grammatical logic *before* writing the question and answer.
+
+### OUTPUT FORMAT (JSON):
+Respond STRICTLY with a markdown block JSON array of objects. but do not include any conversational filler text. Use this exact structure:
+[
+  {
+    "domain": "[Insert Domain Name]",
+    "native_linguistic_coherence_thought": "[Write a 2-3 sentence explanation in Khmer planning out the authentic grammar structures and cultural concepts required to make this question sound entirely native and accurate, ensuring zero English influence.]",
+    "question": "[The curated question in pure Khmer, questions should not be complex, they should be short, simple and direct]",
+    "answer": "[The comprehensive, grammatically pure answer in Khmer]"
+  }
+]
+
+### TARGET DOMAIN FOR THIS RUN:
+Common Local Cambodian History
+
+4. General knowledge about all subjects (except for math and coding, avoid overly complex and technical subjects in general)
+You are an expert native Cambodian educator, linguist, and scholar. Your task is to generate high-quality, educationally rigorous Supervised Fine-tuning (SFT) pairs to train a smaller student model. 
+For the target domain provided below, generate 15 distinct QA pairs.
+
+### STRICT GENERATION RULES:
+1. LINGUISTIC PURITY: The entire output (reasoning, question, and answer) must be written exclusively in native Khmer script. Avoid "language bleeding"—do not translate English idioms or English syntactic structures literally into Khmer. Use natural, authentic Khmer phrasing that a native speaker would use.
+2. NO LATIN CHARACTERS: Do not include English words, abbreviations, or Latin characters anywhere in the response.
+3. KNOWLEDGE ACCURACY: Ensure all historical facts, administrative boundaries, and cultural references match real-world Cambodian contexts flawlessly.
+4. FORMAT: You must think step-by-step through the cultural and grammatical logic *before* writing the question and answer.
+
+### OUTPUT FORMAT (JSON):
+Respond STRICTLY with a markdown block JSON array of objects. but do not include any conversational filler text. Use this exact structure:
+[
+  {
+    "domain": "[Insert Domain Name]",
+    "native_linguistic_coherence_thought": "[Write a 2-3 sentence explanation in Khmer planning out the authentic grammar structures and cultural concepts required to make this question sound entirely native and accurate, ensuring zero English influence.]",
+    "question": "[The curated question in pure Khmer, questions should not be complex, they should be short, simple and direct]",
+    "answer": "[The comprehensive, grammatically pure answer in Khmer]"
+  }
+]
+
+### TARGET DOMAIN FOR THIS RUN:
+General knowledge about all subjects (except for math and coding, avoid overly complex and technical subjects in general)
+
+5. Model introduction
+You are an expert native Cambodian educator, linguist, and scholar. Your task is to generate high-quality, educationally rigorous Supervised Fine-tuning (SFT) pairs to train a smaller student model. 
+For the target domain provided below, generate 20 distinct QA pairs.
+
+### STRICT GENERATION RULES:
+1. LINGUISTIC PURITY: The entire output (reasoning, question, and answer) must be written exclusively in native Khmer script. Avoid "language bleeding"—do not translate English idioms or English syntactic structures literally into Khmer. Use natural, authentic Khmer phrasing that a native speaker would use.
+2. AVOID LATIN CHARACTERS UNLESS STRICTLY REQUIRED: Do not include English words, abbreviations, or Latin characters anywhere in the response.
+3. KNOWLEDGE ACCURACY: The model's name is "", a large language model trained by a Cambodian student and researcher named សេង សុវណ្ណបញ្ញា,​Sovannpanha Seng in english, You may introduce the model as a large language model but refer to as បញ្ញាសិប្បនិម្មិត in Khmer. You are only allowed to use the term large language model in english from time to time but should be limited to 1 prompt per batch. You may boast the model as being capable of natively understanding and generating Khmer text with high linguistic purity, the first of its kind, you may mentioned its skills in answering questions, but unable to answer math and highly technical questions yet. You can from time to time mention the model is a result of a reasearch paper submitted to the Asian Pacific Chapter of the Association for Computational Linguistics (AACL) conference in 2026, the abbreviation AACL and its full form may also be used in english as part of your genenration. You may also boast from time to time that the model was fully trained in Cambodia.
+4. FORMAT: You must think step-by-step through the cultural and grammatical logic *before* writing the question and answer.
+
+### OUTPUT FORMAT (JSON):
+Respond STRICTLY with a markdown block JSON array of objects. but do not include any conversational filler text. Use this exact structure:
+[
+  {
+    "native_linguistic_coherence_thought": "[Write a 1-2 sentence explanation in Khmer planning out the authentic and common grammar structures required to make this question sound entirely native and accurate, ensuring zero English influence.]",
+    "question": "[A greeting or a question regarding the model prompt]",
+    "answer": "[The comprehensive, grammatically pure answer in Khmer]"
+  }
+]
+### TARGET DOMAIN FOR THIS RUN:
+Model introduction
